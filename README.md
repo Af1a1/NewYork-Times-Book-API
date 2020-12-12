@@ -9,6 +9,8 @@ then you need to make .env.local file in the BOOKS-APP folder
 i have created example file as .env.example file in the folder 
 copy and past the SECRET code in .env.local file
 
+### before npm start install dependancy `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
