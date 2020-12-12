@@ -1,6 +1,6 @@
 # Getting Started with New York Time Book API
 
-This project was bootstrapped with [Create React App](https://developer.nytimes.com/).
+This project was bootstrapped with [nyTimes](https://developer.nytimes.com/).
 
 # Copy the Secret key
 
@@ -20,4 +20,3 @@ You will also see any lint errors in the console.
 
 ## Screen Shots
 Screen shots saved in ScreenShots folder
-Image path = (./ScreenShots)
